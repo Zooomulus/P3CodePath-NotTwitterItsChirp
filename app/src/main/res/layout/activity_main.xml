@@ -5,7 +5,6 @@
     android:layout_height="match_parent"
     android:background="#ADD8E6"
     tools:context=".MainActivity">
-
     <TextView
         android:id="@+id/loginText"
         android:layout_width="wrap_content"
@@ -18,7 +17,6 @@
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
-
     <EditText
         android:id="@+id/otherinfo"
         android:layout_width="280dp"
@@ -30,7 +28,6 @@
         app:layout_constraintStart_toStartOf="@+id/loginText"
         app:layout_constraintEnd_toEndOf="@+id/loginText"
         app:layout_constraintTop_toBottomOf="@+id/loginText" />
-
     <com.google.android.material.button.MaterialButton
         android:id="@+id/google"
         android:layout_width="280dp"
@@ -43,7 +40,6 @@
         app:layout_constraintStart_toStartOf="@+id/loginText"
         app:layout_constraintEnd_toEndOf="@+id/loginText"
         app:layout_constraintTop_toBottomOf="@+id/loginText" />
-
     <com.google.android.material.button.MaterialButton
         android:id="@+id/apple"
         android:layout_width="280dp"
@@ -55,7 +51,6 @@
         app:layout_constraintStart_toStartOf="@+id/loginText"
         app:layout_constraintEnd_toEndOf="@+id/loginText"
         app:layout_constraintTop_toBottomOf="@+id/loginText" />
-
     <com.google.android.material.button.MaterialButton
         android:id="@+id/next"
         android:layout_width="280dp"
@@ -66,12 +61,10 @@
         android:backgroundTint="#000000"
         android:text="Next"
         android:textColor="#FFFFFF"
-        app:layout_constrainStart_toStartOf="@+id/loginText"
         app:layout_constraintEnd_toEndOf="@+id/loginText"
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/loginText" />
-
     <com.google.android.material.button.MaterialButton
         android:id="@+id/password"
         android:layout_width="280dp"
@@ -83,39 +76,34 @@
         app:layout_constraintStart_toStartOf="@+id/loginText"
         app:layout_constraintEnd_toEndOf="@+id/loginText"
         app:layout_constraintTop_toBottomOf="@+id/loginText" />
-
     <TextView
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="500dp"
+        android:layout_marginTop="20dp"
         android:text="Don't have an account? Sign Up"
-        tools:layout_editor_absoluteX="165dp"
-        tools:layout_editor_absoluteY="572dp"
-        app:layout_constraintStart_toStartOf="@+id/loginText"
-        app:layout_constraintEnd_toEndOf="@+id/loginText"
-        app:layout_constraintTop_toBottomOf="@+id/loginText" />
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/password" />
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_marginTop="-130dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
         app:srcCompat="@mipmap/ic_launcher"
-        tools:layout_editor_absoluteX="169dp"
-        tools:layout_editor_absoluteY="16dp"
-        app:layout_constraintStart_toStartOf="@+id/loginText"
-        app:layout_constraintEnd_toEndOf="@+id/loginText"
-        app:layout_constraintTop_toBottomOf="@+id/loginText" />
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView" />
 
     <TextView
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="or"
-        android:layout_marginTop="400dp"
+        android:layout_marginTop="20dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toBottomOf="@+id/imageView" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
