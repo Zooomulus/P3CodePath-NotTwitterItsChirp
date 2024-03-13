@@ -2,13 +2,13 @@
 
 # AND101 Project 3 - AnimalApps
 
-Submitted by: **Your Name Here**
+Submitted by: **Dung Nguyen**
 
-Time spent: **X** hours spent in total
+Time spent: **3.5** hours spent in total
 
 ## Summary
 
-**Name of your app** is an android app that was riddle with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!  **Change or add to this description**
+**NotTwitterItsChirp!** is an android app that was riddle with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!  **Change or add to this description**
 
 If I had to describe this project in three (3) emojis, they would be: **emojis here**
 
@@ -18,29 +18,29 @@ If I had to describe this project in three (3) emojis, they would be: **emojis h
 
 The following REQUIRED features are completed:
 
-- [ ] Pick an app screenshot to duplicate
+- [x] Pick an app screenshot to duplicate
   - Be sure to add the screenshot to "Chosen Screenshot" below.
-- [ ] Create a runnable app that displays an Animal Version of your chosen screenshot
-- [ ] Layout uses one (1) or more ConstraintLayout
-- [ ] Layout uses one (1) or more ImageView
-- [ ] Layout uses three (3) or more TextViews
+- [x] Create a runnable app that displays an Animal Version of your chosen screenshot
+- [x] Layout uses one (1) or more ConstraintLayout
+- [x] Layout uses one (1) or more ImageView
+- [x] Layout uses three (3) or more TextViews
 
 The following STRETCH features are implemented:
 
-- [ ] Create a custom-shape Button using Shape Drawables
+- [x] Create a custom-shape Button using Shape Drawables
 - [ ] Customize the text fonts by creating new Font Resources
 - [ ] Add Tooltips to your Views to help users understand how to navigate the UI
 - [ ] Create a second layout, this time for an original, personal app idea
 
 The following EXTRA features are implemented:
-
-- [ ] List anything else that you added to improve the app!
+  Changed background image to a songbird and color
+- [x] List anything else that you added to improve the app!
 
 ## Chosen Screenshot
 
-I have chosen to duplicate the following layout from the **App Name Here** app:
+I have chosen to duplicate the following layout from the **NotTwitterItsChirp!** app:
 
-<img src='http://example.com/link/to/your/image.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+![unit3](https://github.com/Zooomulus/NotTwitterItsChirp/assets/115956505/124e1f75-60f1-44c8-bc19-2a6d975fcb73)
 
 ## Video Demo
 
@@ -62,7 +62,6 @@ Here is my entry for the "Create a second layout, this time for an original, per
 It is for an app that **Shows the inspired Twitter login page**.
 
 ![Animation2](https://github.com/Zooomulus/NotTwitterItsChirp/assets/115956505/e412482f-d8aa-4f39-a7b2-31763ec04a74)
-
 
 ## Notes
 
