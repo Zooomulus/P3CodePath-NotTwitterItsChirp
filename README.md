@@ -8,9 +8,9 @@ Time spent: **3.5** hours spent in total
 
 ## Summary
 
-**NotTwitterItsChirp!** is an android app that was riddle with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!  **Change or add to this description**
+**NotTwitterItsChirp!** is an android app that shows an inspired login page of the original Twitter app.
 
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+If I had to describe this project in three (3) emojis, they would be: **🤨🫥🫡**
 
 ## Application Features
 
