@@ -1,73 +1,85 @@
-# Not-Twitter-Login-Animal-App
+<!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
 
-## Table of Contents
+# AND101 Project 3 - AnimalApps
 
-1. [Overview](#Overview)
-1. [Product Spec](#Product-Spec)
-1. [Wireframes](#Wireframes)
+Submitted by: **Your Name Here**
 
-## Overview
-Creating a new app screen inspired by the OG Twitter login page
+Time spent: **X** hours spent in total
 
-### Description
-Using ImageView, ConstraintLayout, and TextView in Android Studio Kotlin
+## Summary
 
-[Description of your app]
+**Name of your app** is an android app that was riddle with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!  **Change or add to this description**
 
-### App Evaluation
+If I had to describe this project in three (3) emojis, they would be: **emojis here**
 
-[Evaluation of your app across the following attributes]
-- **Category:** social
-- **Mobile:** yes
-- **Story:** It's not Twitter...Just Chirp!
-- **Market:** Ages 9+ 
-- **Habit:** Sharing and communicating ideas and projects
-- **Scope:** App store
+## Application Features
 
-## Product Spec
+<!-- (This is a comment) Please be sure to change the [ ] to [x] for any features you completed.  If a feature is not checked [x], you might miss the points for that item! -->
 
-### 1. User Features (Required and Optional)
+The following REQUIRED features are completed:
 
-**Required Features**
+- [ ] Pick an app screenshot to duplicate
+  - Be sure to add the screenshot to "Chosen Screenshot" below.
+- [ ] Create a runnable app that displays an Animal Version of your chosen screenshot
+- [ ] Layout uses one (1) or more ConstraintLayout
+- [ ] Layout uses one (1) or more ImageView
+- [ ] Layout uses three (3) or more TextViews
 
-* [fill in your required user features here]
-* Login buttons to Google and Apple
-* Text input for user to enter in their details
-* Link for sign up to NotTwitterItsChirp!
+The following STRETCH features are implemented:
 
-**Stretch Features**
+- [ ] Create a custom-shape Button using Shape Drawables
+- [ ] Customize the text fonts by creating new Font Resources
+- [ ] Add Tooltips to your Views to help users understand how to navigate the UI
+- [ ] Create a second layout, this time for an original, personal app idea
 
-* [fill in your optional user features here]
-* Background changes to bird
+The following EXTRA features are implemented:
 
-### 2. Chosen APIs
+- [ ] List anything else that you added to improve the app!
 
-- [list first API endpoint here]
-  - [list associated required story here]
-  - ...
-- [list second API endpoint here]
-  - [list associated required story here]
-  - ...
+## Chosen Screenshot
 
-### 3. User Interaction
+I have chosen to duplicate the following layout from the **App Name Here** app:
 
-**User Story**
+<img src='http://example.com/link/to/your/image.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
 
-- [list first user action here]
-  - [list result of user action here]
-  - ...
-- [list second user action here]
-  - [list result of user action here]
-  - ...
+## Video Demo
 
-## Wireframes
-![20240312_174556](https://github.com/Zooomulus/NotTwitterItsChirp/assets/115956505/c4b02883-28a2-41aa-b9ee-502f0ed1f8e2)
+Here's a video / GIF that demos all of the app's implemented features:
 
-[Add picture of your hand sketched wireframes in this section]
-![Animation2](https://github.com/Zooomulus/NotTwitterItsChirp/assets/115956505/e18981a2-e3fd-4b56-969a-4eb4c1d6fca5)
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
 
-![unit3](https://github.com/Zooomulus/NotTwitterItsChirp/assets/115956505/07380ab8-899c-4469-9e47-768383059f8f)
+GIF created with **ScreenToGif**
 
-### [BONUS] Digital Wireframes & Mockups
+<!-- Recommended tools:
+- [Kap](https://getkap.co/) for macOS
+- [ScreenToGif](https://www.screentogif.com/) for Windows
+- [peek](https://github.com/phw/peek) for Linux. -->
 
-### [BONUS] Interactive Prototype
+## Original App Layout (Optional Stretch Feature)
+
+Here is my entry for the "Create a second layout, this time for an original, personal app idea" stretch feature: Changed background color and image
+
+It is for an app that **Shows the inspired Twitter login page**.
+
+![Animation2](https://github.com/Zooomulus/NotTwitterItsChirp/assets/115956505/e412482f-d8aa-4f39-a7b2-31763ec04a74)
+
+
+## Notes
+
+Learned to add simple TextViews, Constraints, and ImageViews
+
+## License
+
+Copyright **2024** **Dung Nguyen**
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
