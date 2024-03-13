@@ -46,7 +46,7 @@ I have chosen to duplicate the following layout from the **NotTwitterItsChirp!**
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+![Animation2](https://github.com/Zooomulus/NotTwitterItsChirp/assets/115956505/0f0ae892-43c7-49cc-a5d1-39a5948e5e6d)
 
 GIF created with **ScreenToGif**
 
@@ -60,8 +60,6 @@ GIF created with **ScreenToGif**
 Here is my entry for the "Create a second layout, this time for an original, personal app idea" stretch feature: Changed background color and image
 
 It is for an app that **Shows the inspired Twitter login page**.
-
-![Animation2](https://github.com/Zooomulus/NotTwitterItsChirp/assets/115956505/e412482f-d8aa-4f39-a7b2-31763ec04a74)
 
 ## Notes
 
